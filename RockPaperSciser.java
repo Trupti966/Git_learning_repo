@@ -39,6 +39,7 @@ public class RockPaperSciser {
 		}
 		system.out.println("Thank You!");
 		system.out.println("Have a nice Day!");
+		system.out.println("You are a very good player!");
 	}
 
 }
