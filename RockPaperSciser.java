@@ -37,7 +37,8 @@ public class RockPaperSciser {
 				break;
 			}
 		}
-		
+		system.out.println("Thank You!");
+		system.out.println("Have a nice day!");
 	}
 
 }
